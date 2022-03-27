@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azaise
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning HTML.
+- 👀 I’m interested in Integers.
+- 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on nothing.
 
 <!---
